@@ -58,3 +58,4 @@ new = starting_point
   return new
 end
 
+def reduce_to_all_true(source_array)
