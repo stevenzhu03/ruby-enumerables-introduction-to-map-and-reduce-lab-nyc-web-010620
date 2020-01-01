@@ -9,3 +9,9 @@ end
 
 result
 end
+
+def map_to_negativize(source_array)
+  source_array
+  
+end
+
