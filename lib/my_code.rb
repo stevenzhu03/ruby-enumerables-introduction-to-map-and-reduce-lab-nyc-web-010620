@@ -57,3 +57,4 @@ new = starting_point
   end
   return new
 end
+
